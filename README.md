@@ -8,8 +8,7 @@
 
 <h3 align="left">About Me</h3>
 
-🌱 I'm a Biomedical Engineering Student at Amirkabir University of Technology. I have a keen interest in the fields of machine learning, deep learning, and computer vision.
-I'm eager to apply these fields in healthcare. 
+🌱 I'm a biomedical engineering student at Amirkabir University of Technology. My academic interests lie in the fields of machine learning, deep learning, and computer vision, and how they can be applied to solve real-world problems in healthcare. 
 
 <h3 align="left">Skills:</h3>
 <p align="left">
